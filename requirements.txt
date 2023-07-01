@@ -22,3 +22,12 @@ Cython==0.29.21
 matplotlib==3.3.1
 phonemizer==2.2.1
 tensorboard==2.3.0
+
+face_alignment
+scikit-learn
+pydub
+pynormalize
+soundfile
+pysptk
+pyworld
+resemblyzer
