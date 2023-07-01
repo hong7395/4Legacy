@@ -3,7 +3,7 @@ numpy<1.24.1
 opencv-contrib-python>=4.2.0.34
 opencv-python==4.7.0.72
 torch>=1.7
-torchvision>=>=0.8.2
+torchvision>=0.8.2
 tqdm==4.48
 numba==0.56.4
 
@@ -19,9 +19,9 @@ realesrgan
 ffmpeg
 
 Cython==0.29.21
-matplotlib==3.3.1
+matplotlib==3.5.0
 phonemizer==2.2.1
-tensorboard==2.3.0
+tensorboard==2.12
 
 face_alignment
 scikit-learn
@@ -31,3 +31,5 @@ soundfile
 pysptk
 pyworld
 resemblyzer
+
+google-auth==2.17.3
