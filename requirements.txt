@@ -18,7 +18,7 @@ realesrgan
 
 ffmpeg
 
-Cython==0.29.21
+Cython==0.29.36
 matplotlib==3.5.0
 phonemizer==2.2.1
 tensorboard==2.12
