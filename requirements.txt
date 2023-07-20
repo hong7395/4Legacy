@@ -29,7 +29,7 @@ pydub
 pynormalize
 soundfile
 pysptk
-pyworld
+pyworld==0.3.2
 resemblyzer
 
 google-auth==2.17.3
