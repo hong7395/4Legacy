@@ -16,7 +16,7 @@ tb-nightly
 yapf
 realesrgan
 
-ffmpeg
+ffmpeg-python
 
 Cython==0.29.36
 matplotlib==3.5.0
@@ -26,7 +26,6 @@ tensorboard==2.12
 face_alignment
 scikit-learn
 pydub
-pynormalize
 soundfile
 pysptk
 pyworld==0.3.2
